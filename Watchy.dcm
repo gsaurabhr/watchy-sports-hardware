@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP L76-M33
+D GPS Module
+F https://www.quectel.com/UploadImage/Downlad/Quectel_L76_Hardware_Design_V1.1.pdf
+$ENDCMP
+#
 #End Doc Library
