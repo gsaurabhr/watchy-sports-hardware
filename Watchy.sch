@@ -870,7 +870,7 @@ $EndComp
 Text Notes 6250 7775 0    60   ~ 0
 Vibration Motor
 Wire Notes Line
-	3270 6645 3270 7795
+	3120 6650 3120 7800
 $Comp
 L Device:LED D5
 U 1 1 5B7A38B4
@@ -2277,4 +2277,8 @@ Text GLabel 6200 3150 0    50   Input ~ 0
 ATGM
 Text GLabel 6265 2165 0    50   Input ~ 0
 ATGM
+Wire Notes Line
+	4590 6640 4590 7790
+Wire Notes Line
+	4590 7790 4600 7790
 $EndSCHEMATC
